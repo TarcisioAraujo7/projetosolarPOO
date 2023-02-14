@@ -10,3 +10,5 @@ Alunos
  - Marlisson Dos Anjos Montes
  - Tarcísio Almeira De Oliveira Araújo
 ## Configurando o ambiente: 	:computer:
+Rodar através da classe principal ou jar 
+- Links úteis : [Como rodar arquivos .JAR](https://www.youtube.com/watch?v=rpna92PJ0s8)
